@@ -1,17 +1,11 @@
-### Hi there 👋
-📫 How to reach me: ritishlogs@gmail.com or https://www.linkedin.com/in/ritish-kulkarni-8408ab195/
+![image](https://github.com/RitishKulkarni/amazon-sales-dashboard-powerbi/assets/165473767/256b6165-183d-4ca7-a7f8-cfefcb3af34d)
 
-<!--
-**RitishKulkarni/RitishKulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/RitishKulkarni/amazon-sales-dashboard-powerbi/assets/165473767/aaab1ec2-b6be-4a9c-a0df-4d49ea7e3f6e)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data and analytics 
-- 🌱 I’m currently learning big data analytics and data science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+Data Used
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data - Amazon's sales Data with over 3200+ rows from the year 2011 to 2015.
+Data Source - Kaggle
+Data Cleaning & Analysis - SQL Server & Power Query
+Data Visualization - PowerBI
