@@ -6,6 +6,9 @@
 Data Used
 
 Data - Amazon's sales Data with over 3200+ rows from the year 2011 to 2015.
+
 Data Source - Kaggle
+
 Data Cleaning & Analysis - SQL Server & Power Query
+
 Data Visualization - PowerBI
